@@ -24,4 +24,6 @@ function arrayAdder(p1)
     }
 }
 
-arrayAdder(arrayB)
+
+//INSERT arrayB, arrayS, OR arrayN HERE
+arrayAdder()
